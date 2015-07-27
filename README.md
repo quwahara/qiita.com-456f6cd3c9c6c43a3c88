@@ -1,13 +1,13 @@
-# qiita.com-456f6cd3c9c6c43a3c88
+# test-javascript-with-junit-example
 
-This project is exmaple to test JavaScript codes in Junit and Nashorn. The project depends on Spring Boot and IO Platform.
+This project is exmaple to test JavaScript codes in JUnit and Nashorn. The project depends on Spring Boot and IO Platform.
 
 This project does,
 
-Load [Sugar.js](http://sugarjs.com/) in webjar,
-Evaluate test code in Nashorn,
+- Load [Sugar.js](http://sugarjs.com/) in webjar,
+- Evaluate test code in Nashorn,
 (Test is invoking a method of Sugar.js) 
-Check the result by Junit.
+- Check the result by Junit.
 
 # Build and Run
 
