@@ -35,4 +35,5 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter")
     compile("org.springframework.boot:spring-boot-starter-test")
     compile("commons-io:commons-io")
+    testCompile('org.mozilla:rhino:1.7.7')
 }
